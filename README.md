@@ -2,11 +2,7 @@
 
 A native macOS menu bar app for real-time [Claude Code](https://claude.ai/code) usage monitoring, powered by [ccusage](https://github.com/ryoppippi/ccusage).
 
-<p align="center">
-  <img src="assets/menu-bar-preview.png" alt="ccbar in action" width="400">
-  <br>
-  <em>Monitor your Claude Code usage without leaving your workflow</em>
-</p>
+<img width="1024" height="1024" alt="ChatGPT Image Jul 10, 2025, 06_11_26 PM" src="https://github.com/user-attachments/assets/17def116-fc2e-4f6d-adc7-8b4ca4cef407" />
 
 ## Features
 
