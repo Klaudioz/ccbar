@@ -2,7 +2,11 @@
 
 A native macOS menu bar app for real-time [Claude Code](https://claude.ai/code) usage monitoring, powered by [ccusage](https://github.com/ryoppippi/ccusage).
 
-<img width="1024" height="1024" alt="ChatGPT Image Jul 10, 2025, 06_11_26 PM" src="https://github.com/user-attachments/assets/17def116-fc2e-4f6d-adc7-8b4ca4cef407" />
+<p align="center">
+  <img width="256" height="256" alt="ccbar app icon" src="https://github.com/user-attachments/assets/17def116-fc2e-4f6d-adc7-8b4ca4cef407" />
+  <br>
+  <em>Monitor your Claude Code usage without leaving your workflow</em>
+</p>
 
 ## Features
 
@@ -201,6 +205,12 @@ We welcome contributions! See CONTRIBUTING.md for guidelines.
 3. Build and run
 4. Make your changes
 5. Submit a pull request
+
+### Recommended MCP Servers for This Project
+
+1. **XcodeBuildMCP** - macOS/iOS development (Mac only)
+   - Xcode build, test, project management
+   - Install: `claude mcp add XcodeBuildMCP -- npx -y xcodebuildmcp@latest`
 
 ## Credits
 
